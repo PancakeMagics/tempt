@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "280957782862",
+    "project_id": "template-fa247",
+    "storage_bucket": "template-fa247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280957782862:android:8befd6f0dd0e17390aec1f",
+        "android_client_info": {
+          "package_name": "com.nomisal.tempt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280957782862-fvvt38ic4bisajbdrp4o25cpqvaqnhr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVi3m8zgYPy-EkDIrxq2C7-WvXEUrXiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280957782862-fvvt38ic4bisajbdrp4o25cpqvaqnhr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280957782862-4pe14og5u9p9t3e07b2c5rs87755j1j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.template"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
